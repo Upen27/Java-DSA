@@ -1,0 +1,38 @@
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore IDE-specific files
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Maven / Gradle
+target/
+build/
+out/
