@@ -1,4 +1,4 @@
-# 📅 Day 01 - Recursion 
+# 📅 Day 08 - Recursion 
 ## ✅ Topics Covered:
 - Introduction to Recursion
 - Base case and recursive case
